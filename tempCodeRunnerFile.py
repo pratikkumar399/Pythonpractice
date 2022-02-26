@@ -1,0 +1,5 @@
+tim.goto(-230,-100)
+tim.goto(-230,-50)
+tim.goto(-230,0)
+tim.goto(-230,50)
+tim.goto(-230,100)

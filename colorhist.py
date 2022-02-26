@@ -27,7 +27,7 @@ tim.hideturtle()
 number_of_dots = 100
 
 for dot_count in range(1, number_of_dots + 1):
-    tim.dot(10, random.choice(colors_list))
+    tim.dot(20, random.choice(colors_list))
     tim.forward(50)
 
     if dot_count % 10 == 0:

@@ -18,14 +18,14 @@ def random_color():
 t.speed('fastest')
 
 
-def create_spiro(size_of_gap):
+def create_spiro(size_of_gap):  
     for _ in range(int(360/size_of_gap)):
         t.color(random_color())
         t.circle(100)
         t.setheading(t.heading() + size_of_gap)
         # t.circle(100)
 
-create_spiro(3)
+create_spiro(5)
 
 
 turtle.exitonclick()
