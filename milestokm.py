@@ -5,8 +5,6 @@ def button_clicked():
     new_text = input.get()
     my_label3.config(text=float(new_text)*1.609)
 
-kilometer = 0
-
 window = Tk()
 window.title("Mile to Km converter")
 window.minsize(width=200, height=100)
