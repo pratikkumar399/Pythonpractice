@@ -1,0 +1,7 @@
+Name : Pratik Rai, 
+Uid: 20BCs2820 ,
+Semester: 4th, 
+CGPA : 8.51 
+Passout Year : 2024
+hello world 
+ how are you
